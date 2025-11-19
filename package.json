@@ -1,0 +1,16 @@
+{
+  "name": "pupperte",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bmf",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "puppeteer": "^24.30.0"
+  },
+  "type": "module"
+}
